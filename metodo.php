@@ -8,15 +8,13 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    
-
     </head>
 
     <body>
-     <!--cabecalho-->   
+        
   <nav>
     <div class="nav-wrapper">
-      <a href="index.php" class="brand-logo">Sensory Xavier</a>
+      <a href="index.php" class="brand-logo">XSen - METODOLOGIA</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="intro.php">INTRODUÇÃO</a></li>
         <li><a href="objetivo.php">OBJETIVO</a></li>
@@ -24,9 +22,7 @@
       </ul>
     </div>
   </nav>
-  <!--fim do cabecalho-->
   
-
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
       
       <script type="text/javascript" src="js/materialize.min.js"></script>
