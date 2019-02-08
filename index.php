@@ -1,5 +1,6 @@
 <html>
     <head>
+    <UTF-8>
         <title>Proj-XS</title>
     </head>
     <body>
